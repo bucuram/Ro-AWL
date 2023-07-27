@@ -15,7 +15,7 @@ If you find our work useful, please cite us:
 
 ```
 @inproceedings{bucur2023automatic,
-  author="Bucur, Ana-Maria and Dincă, Andreea and Chitez, Madalina and Rogobete, Roxana",
+  author="Bucur, Ana-Maria and Dincă, Andreea and Chitez, Mădălina and Rogobete, Roxana",
   title="Automatic Extraction of the Romanian Academic Word List: Data and Methods",
   booktitle="Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2023)",
   year="2023",
