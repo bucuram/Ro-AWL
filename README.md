@@ -8,7 +8,7 @@
 
 ![](Ro-AWL-stats.png)
 
-It contains 332 nouns, 166 verbs, 162 adjectives, 15 adverbs and 2 conjunctions. The complete list of Romanian Academic Word list can be found in `Ro-AWL.csv`.
+It contains 332 nouns, 166 verbs, 162 adjectives, 15 adverbs and 2 conjunctions. The words of Romanian Academic Word List can be found in `Ro-AWL.csv`.
 
 ### Citation
 If you find our work useful, please cite us:
