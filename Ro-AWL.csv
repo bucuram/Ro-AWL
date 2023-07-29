@@ -15,7 +15,7 @@ activitate,NOUN
 actual,ADJ
 adapta,VERB
 adaptare,NOUN
-adesea,ADJ
+adesea,ADV
 administrație,NOUN
 adoptare,NOUN
 afară,ADV
@@ -46,7 +46,7 @@ aplicabilitate,NOUN
 aprecia,VERB
 apreciere,NOUN
 apropiat,ADJ
-arata,VERB
+arăta,VERB
 argument,NOUN
 argumenta,VERB
 artificial,ADJ
@@ -61,7 +61,7 @@ autohton,ADJ
 autonom,ADJ
 autonomie,NOUN
 autor,NOUN
-avansat,VERB
+avansat,ADJ
 avantaj,NOUN
 axa,VERB
 baza,VERB
@@ -80,7 +80,7 @@ categorie,NOUN
 cauzal,ADJ
 centra,VERB
 cercetare,NOUN
-cercetator,NOUN
+cercetător,NOUN
 cheie,NOUN
 chestionar,NOUN
 citat,NOUN
@@ -105,7 +105,7 @@ componentă,NOUN
 comporta,VERB
 comportament,NOUN
 comportamental,ADJ
-compromis,VERB
+compromis,NOUN
 comun,ADJ
 comunicare,NOUN
 concentra,VERB
@@ -166,14 +166,14 @@ cunostință,NOUN
 cuprinzător,ADJ
 curent,ADJ
 dăuna,VERB
-decat,ADV
+decât,ADV
 deceniu,NOUN
 decident,NOUN
 decisiv,ADJ
 decizional,ADJ
 declanșa,VERB
 declin,NOUN
-dedicat,VERB
+dedicat,ADJ
 deficiență,NOUN
 defini,VERB
 definire,NOUN
@@ -184,7 +184,7 @@ delimita,VERB
 delimitare,NOUN
 demers,NOUN
 demografic,ADJ
-deopotriva,ADV
+deopotrivă,ADV
 deosebire,NOUN
 departe,ADV
 dependent,ADJ
@@ -215,7 +215,7 @@ dificil,ADJ
 dificultate,NOUN
 dimensiune,NOUN
 diminua,VERB
-dimpotriva,ADV
+dimpotrivă,ADV
 dinamic,ADJ
 direct,ADJ
 disciplină,NOUN
@@ -252,7 +252,6 @@ enunța,VERB
 eșec,NOUN
 esență,NOUN
 esential,ADJ
-est,NOUN
 etapă,NOUN
 etc,ADV
 eterogen,ADJ
@@ -282,11 +281,11 @@ explicativ,ADJ
 explicit,ADJ
 exploata,VERB
 exprima,VERB
-extern,NOUN
+extern,ADJ
 extinde,VERB
 extindere,NOUN
 extins,ADJ
-extras,VERB
+extras,NOUN
 extrem,ADJ
 facilita,VERB
 facilitare,NOUN
@@ -341,15 +340,14 @@ imperativ,ADJ
 implica,VERB
 implicare,NOUN
 implicație,NOUN
-implicit,VERB
+implicit,ADJ
 important,ADJ
 imposibilitate,NOUN
-împreună,ADJ
+împreună,ADV
 impuls,NOUN
 impune,VERB
 impunere,NOUN
 înalt,ADJ
-încât,CONJ
 incident,NOUN
 includere,NOUN
 încredere,NOUN
@@ -365,7 +363,7 @@ influența,VERB
 inițiativă,NOUN
 inovator,ADJ
 înregistra,VERB
-insemna,VERB
+însemna,VERB
 instanță,NOUN
 instituție,NOUN
 instituțional,ADJ
@@ -389,7 +387,7 @@ interes,NOUN
 interesant,ADJ
 intermediu,NOUN
 intern,ADJ
-international,ADJ
+internațional,ADJ
 interpreta,VERB
 interpretare,NOUN
 interveni,VERB
@@ -398,8 +396,7 @@ interviu,NOUN
 întreprinde,VERB
 introduce,VERB
 introducere,NOUN
-întrucât,CONJ
-invers,VERB
+invers,ADJ
 investiga,VERB
 investigare,NOUN
 invoca,VERB
@@ -415,7 +412,7 @@ logic,ADJ
 logică,NOUN
 luare,NOUN
 lucrare,NOUN
-major,VERB
+major,ADJ
 majoritate,NOUN
 manieră,NOUN
 manifesta,VERB
@@ -445,7 +442,7 @@ negativ,ADJ
 nevoi,VERB
 nevoie,NOUN
 nivel,NOUN
-normativ,NOUN
+normativ,ADJ
 noțiune,NOUN
 nucleu,NOUN
 numeros,ADJ
@@ -474,7 +471,7 @@ orizont,NOUN
 orizontal,ADJ
 paradigmă,NOUN
 paralel,ADJ
-parcurs,VERB
+parcurs,NOUN
 parte,NOUN
 parteneriat,NOUN
 participant,NOUN
@@ -513,7 +510,7 @@ presupune,VERB
 principal,ADJ
 prioritar,ADJ
 prioritate,NOUN
-prisma,NOUN
+prismă,NOUN
 privință,NOUN
 privire,NOUN
 problemă,NOUN
@@ -548,7 +545,7 @@ realiza,VERB
 realizare,NOUN
 recent,ADJ
 reciproc,ADJ
-recurs,VERB
+recurs,NOUN
 reduce,VERB
 referi,VERB
 referire,NOUN
@@ -628,7 +625,6 @@ sublinia,VERB
 substantial,ADJ
 succes,NOUN
 succesiv,ADJ
-sud,NOUN
 sugera,VERB
 surprinde,VERB
 sursă,NOUN
