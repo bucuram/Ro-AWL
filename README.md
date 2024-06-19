@@ -1,4 +1,4 @@
-## Ro-AWL - [Automatic Extraction of the Romanian Academic Word List: Data and Methods](https://aclanthology.org/2023.ranlp-1.26/)
+# Ro-AWL - [Automatic Extraction of the Romanian Academic Word List: Data and Methods](https://aclanthology.org/2023.ranlp-1.26/)
 ### Ana-Maria Bucur, Andreea Dincă, Madalina Chitez and Roxana Rogobete
 
 #### Abstract 
